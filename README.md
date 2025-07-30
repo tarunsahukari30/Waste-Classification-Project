@@ -127,3 +127,10 @@ rules = {
   "cardboard": "Compressed and recycled into paper-based products",
   "biological": "Composted or sent to biomass plants"
 }
+
+
+## 🧠 Trained Keras Model
+
+You can download the trained Keras model from the link below:
+
+🔗 [Download Model from Google Drive](https://drive.google.com/file/d/1CxTDvCM1eVTttGqtHXRfDhHWtpQ34UYm/view?usp=drive_link)
